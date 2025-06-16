@@ -1,5 +1,5 @@
 
-# 📚 Advanced Library Management System (MySQL Only)
+# 📚 Library Management System (MySQL Only)
 
 This project is a complete MySQL-only implementation of a Library Management System. It includes:
 
